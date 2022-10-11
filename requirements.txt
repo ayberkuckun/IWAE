@@ -1,0 +1,8 @@
+numpy
+tensorflow
+matplotlib
+tensorflow_datasets
+tensorflow_probability
+scipy
+sklearn
+seaborn
