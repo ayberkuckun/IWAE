@@ -1,3 +1,6 @@
-old
-iwae
-saved_model_weights
+old/
+iwae/
+saved_model_weights/
+.idea
+.ipynb_checkpoints
+__pycache__/
